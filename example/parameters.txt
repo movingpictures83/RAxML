@@ -1,0 +1,3 @@
+inputfile	input.ffn.reduced
+model	GTRCAT
+seed	1234
