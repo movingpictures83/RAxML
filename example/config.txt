@@ -1,2 +1,0 @@
-Prefix plugins/RAxML/example
-Plugin RAxML inputfile parameters.txt outputfile output.tre
